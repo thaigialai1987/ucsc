@@ -4,7 +4,7 @@ Dấu hiệu nhận diện email độc hại
 1. Địa chỉ người gửi không chính xác
 Đừng chỉ nhìn vào tên người gửi vì đây là thông tin mà bất kỳ ai cũng có thể mạo danh, bạn hãy chú ý vào địa chỉ email xem đó có phải là địa chỉ email của người gửi không.
 Như ví dụ trong ảnh dưới chúng ta có thể thấy tên người gửi là BIDV, liệu đây có phải là email từ ngân hàng? Hãy xem xét cẩn thận, chúng ta có thể thấy địa chỉ email là support@customer.bldv.com.vn, và đây chính là điểm bất thường, địa chỉ đúng phải là support@customer.bidv.com.vn, khác nhau giữa l và i, như vậy đây là một email giả mạo.
-(https://raw.githubusercontent.com/thaigialai1987/ucsc/master/email/img/0.png)
+![alt text](https://raw.githubusercontent.com/thaigialai1987/ucsc/master/email/img/0.png)
 2. Nội dung email sai ngữ pháp, chính tả
 Email từ các công ty khi gửi đến khách hàng thường được kiểm tra và rà soát cẩn thận trước khi gửi đi. Trong khi đó các email lừa đảo, độc hại đôi khi được soạn thảo và dịch bằng công cụ nên nội dung khá lủng củng và dễ nhận biết.
 3. Nội dung chung chung, không rõ ràng

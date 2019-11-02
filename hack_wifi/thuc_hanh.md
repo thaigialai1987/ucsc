@@ -5,3 +5,4 @@
 4. Hacker sử dụng tài khoản ở bước 2 để truy cập vào Access Point thật. Từ đó hacker tiếp tục thực hiện tấn công vào hệ thống mạng.
 # Tool
 [Fluxion](https://github.com/FluxionNetwork/fluxion)
+[Hướng dẫn](https://null-byte.wonderhowto.com/how-to/hack-wi-fi-capturing-wpa-passwords-by-targeting-users-with-fluxion-attack-0176134/)
